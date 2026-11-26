@@ -35,7 +35,7 @@ Wiki page: [M136](../../../../PAGES/M136.md)
 - **Title block:** (186, 78)–(215, 108) mm: DRN · DATE · CFKD
 - **Wiring (first pass):** 74 connected wire groups from 593 runs; labelled ends: 385 mm → M136  REGULATOR, MATERIAL; 366 mm → R6, 6*8, PRANSISToR, CRS; 239 mm → R6, 6*8, 47/35, CR3; 234 mm → 2N3328, Rii, Ioo, RIJ; 215 mm → ISS.
 
-Every curve, box, word and wire group: [1971 - 136-02-001 - REGULATOR CARD SCHEMATIC - DRN GP - ISS 8 (2) (traced).json](../SCHEMATICS/1971%20-%20136-02-001%20-%20REGULATOR%20CARD%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%208%20(2)%20(traced).json) (the CAD file: `1971 - 136-02-001 - REGULATOR CARD SCHEMATIC - DRN GP - ISS 8 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 136-02-001 - REGULATOR CARD SCHEMATIC - DRN GP - ISS 8 (2) (traced).json](../SCHEMATICS/1971%20-%20136-02-001%20-%20REGULATOR%20CARD%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%208%20%282%29%20%28traced%29.json) (the CAD file: `1971 - 136-02-001 - REGULATOR CARD SCHEMATIC - DRN GP - ISS 8 (2) (traced).dxf`).
 
 ## Full text
 

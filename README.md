@@ -1,6 +1,6 @@
 # M136 Regulator Card · Power
 
-Ward-Beck Systems M136, 1971|4. Wiki page: [M136 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M136.html)
+Ward-Beck Systems M136, 1971|4. Wiki page: [M136 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M136-Regulator-Card/)
 
 | Folder | What is in it | Files |
 |---|---|---|

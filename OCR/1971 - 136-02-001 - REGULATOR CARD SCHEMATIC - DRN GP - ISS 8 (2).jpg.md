@@ -1,5 +1,5 @@
 # 1971 - 136-02-001 - REGULATOR CARD SCHEMATIC - DRN GP - ISS 8 (2).jpg
-Wiki page: [M136](../../../../PAGES/M136.md)
+Wiki page: [M136](../)
 
 
 - **Year:** 1971 (title block date)
